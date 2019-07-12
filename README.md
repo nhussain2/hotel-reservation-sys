@@ -1,7 +1,7 @@
 # hotel-reservation-sys
 Hotel Reservation System using Java GUI through Swing Functions and WindowsBuilder.
 
-# introduction to the project
+# Introduction to the project
 This program aims to facilitate customers with easy access to a reservation system, cost estimator and evaluator for the Northwoods Hotel Reservations Company, Inc. that offer multiple hotel locations, room types, nights, discounts and selections to their customers.
 This program is designed to be extremely straight forward and user friendly, allowing maximum customer support, compatibility and accessibility to make the customer experience as seamless as possible. To ensure a simple, basic program- Java GUI software was used. The IDE used was Eclipse with aid of an Eclipse plugin, WindowBuilder, that allows maximum GUI customization through JFrame, JPanels and Swing Utilities. 
 In the coming age, the integration of Information Technology systems in commercial sectors such as hotel industries is extremely important. Introducing technology that assists reservations, database management or general control over customer data and facilities for customer convenience allows hotels to compete in terms of the service they provide. It improves the efficiency of the business and boosts advertisement. A lot of focus on these services are through the internet. In a report from 2000,   4% of reservations were channeled through the Internet but in only a year, it was projected to grow to 11%. CRS (Central Reservation Systems) were projected to grow from 21 to 22%. In 2017, the distribution of adults in the United States by their preference of hotel booking online or offline was surveyed. The results showed that 88% preferred online than offline. 
